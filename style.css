@@ -1,0 +1,40 @@
+* {
+   background-color : rgb(140, 155, 173);
+}
+
+h1{
+    color:black;
+    font-family:'Times New Roman', Times, serif ;
+    text-align: center;
+}
+
+img{
+    align-items: center;
+}
+
+p{
+    text-align: center;
+}
+
+menu{
+    height: 20px;
+      text-align: right;
+      
+    }
+    menu ul { 
+      list-style: none;
+      justify-content: space-evenly;
+    }
+    menu ul li {
+    text-align: right;
+    float: right;
+    }
+    menu ul li a{
+    display: block;
+      color: #FFF;
+      text-decoration: none;
+      padding:0px 20px;
+      line-height: 30px;
+    }
+
+    .
